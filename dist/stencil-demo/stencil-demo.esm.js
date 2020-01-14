@@ -1,0 +1,1 @@
+import{p as t,b as e}from"./p-ee09069d.js";t().then(t=>e([["p-xtuy1ums",[[1,"button-ds",{value:[1],active:[32]},[[0,"click","handleClick"]]],[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],t));

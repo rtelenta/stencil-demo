@@ -1,0 +1,9 @@
+button {
+  border: 1px solid peru;
+  background: none;
+  color: peru;
+}
+button.active {
+  background: peru;
+  color: white;
+}
